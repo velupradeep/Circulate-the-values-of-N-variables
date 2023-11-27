@@ -45,7 +45,8 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](<py 3.png>)
+![py 3](https://github.com/velupradeep/Circulate-the-values-of-N-variables/assets/150329341/4984a548-fdfa-4051-acf4-bfb282c3a66d)
+
 
 ## Result:
 thus the output got successfully.
